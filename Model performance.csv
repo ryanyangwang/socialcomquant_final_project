@@ -1,0 +1,28 @@
+﻿Variable,Models,Metrics,Value
+Vaccination intention,Linear regression,MAE,6.780481765
+Vaccination intention,Linear regression,MSE,77.95113957
+Vaccination intention,Linear regression,RMSE,8.828994256
+Vaccination intention,Random forest,MAE,6.261707446
+Vaccination intention,Random forest,MSE,73.14603267
+Vaccination intention,Random forest,RMSE,8.552545391
+Vaccination intention,XGBoost,MAE,5.882000313
+Vaccination intention,XGBoost,MSE,60.95637116
+Vaccination intention,XGBoost,RMSE,7.807456126
+Safety and side effect,Linear regression,MAE,2.100404096
+Safety and side effect,Linear regression,MSE,7.42141817
+Safety and side effect,Linear regression,RMSE,2.724227995
+Safety and side effect,Random forest,MAE,2.08014427
+Safety and side effect,Random forest,MSE,7.177133976
+Safety and side effect,Random forest,RMSE,2.679017353
+Safety and side effect,XGBoost,MAE,2.081975941
+Safety and side effect,XGBoost,MSE,7.2199478
+Safety and side effect,XGBoost,RMSE,2.686996055
+Vaccine hesistancy,Linear regression,MAE,0.01996708
+Vaccine hesistancy,Linear regression,MSE,0.000671387
+Vaccine hesistancy,Linear regression,RMSE,0.025911139
+Vaccine hesistancy,Random forest,MAE,0.008137333
+Vaccine hesistancy,Random forest,MSE,0.000118369
+Vaccine hesistancy,Random forest,RMSE,0.01087974
+Vaccine hesistancy,XGBoost,MAE,0.008230503
+Vaccine hesistancy,XGBoost,MSE,0.000113303
+Vaccine hesistancy,XGBoost,RMSE,0.01064441
